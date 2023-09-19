@@ -6,15 +6,15 @@ export default {
     },
     // Colors for layout
     colors: {
-      primary1: "#854CE6",
-      background1: "#222A35",
-      button: "#854CE6",
-      background2: "#19212C",
-      text: "#C8CFD8",
-      text1: "#F2F5F7",
-      text2: "#626970",
-      text3: "#575C66",
-      footerBackground: "#00012B"
+      primary1: "#854CE6",        // Puede mantener el color principal proporcionado
+      background1: "#0C0E16",    // Fondo principal oscuro, combina con el tema oscuro
+      button: "#854CE6",          // Puede mantener el color de los botones proporcionado
+      background2: "#1C1E27",    // Fondo secundario oscuro, combina con el tema oscuro
+      text: "#F2F3F4",            // Texto principal en blanco, combina con el tema oscuro
+      text1: "#111111",           // Texto principal en negro, combina con el tema claro
+      text2: "#48494a",           // Texto secundario en gris oscuro, combina con el tema claro
+      text3: "#575C66",           // Color de texto secundario (puede mantenerlo)
+      footerBackground: "#00012B" // Puede mantener el color del fondo del pie de página proporcionado
     },
     // Breakpoints for responsive design
     breakpoints: {

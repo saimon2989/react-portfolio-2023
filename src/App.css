@@ -19,23 +19,24 @@ body{
 }
 
 /* width */
+/* Ancho y altura del scrollbar */
 ::-webkit-scrollbar {
-    width: 4px;
-    height: 80px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background:#222A35;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #575C66;
-    border-radius: 6px;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #626970;
-  }
+  width: 4px;
+  height: 80px;
+}
+
+/* Fondo del track (barra de desplazamiento) */
+::-webkit-scrollbar-track {
+  background: #222A35; /* Puedes mantener este color o ajustarlo según tus preferencias */
+}
+
+/* Color del handle (el control deslizante) */
+::-webkit-scrollbar-thumb {
+  background: #00FF00; /* Cambia este color a un tono de verde que te guste */
+  border-radius: 6px;
+}
+
+/* Color del handle al pasar el mouse sobre él */
+::-webkit-scrollbar-thumb:hover {
+  background: #FF00FF; /* Cambia este color a otro tono de verde si lo prefieres */
+}
