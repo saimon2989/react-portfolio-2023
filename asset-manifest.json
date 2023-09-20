@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-2023/static/css/main.3a276bc9.css",
+    "main.js": "/react-portfolio-2023/static/js/main.92c0b632.js",
+    "static/media/HeroImage.jpg": "/react-portfolio-2023/static/media/HeroImage.ac917f94f0470274fe0d.jpg",
+    "index.html": "/react-portfolio-2023/index.html",
+    "main.3a276bc9.css.map": "/react-portfolio-2023/static/css/main.3a276bc9.css.map",
+    "main.92c0b632.js.map": "/react-portfolio-2023/static/js/main.92c0b632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a276bc9.css",
+    "static/js/main.92c0b632.js"
+  ]
+}
