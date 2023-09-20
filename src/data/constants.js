@@ -187,7 +187,6 @@ export const experiences = [
       "CSS",
       "JavaScript",
       "WordPress",
-      "MongoDB",
       "Figma",
       "Adobe Xd",
       "Adobe Ai",
@@ -232,7 +231,7 @@ export const projects = [
     date: "Agust 2023",
     description:
       "Designing and developing an ecommerce product page with figma sass, html, css and JavaScript.",
-    image: "https://lh3.google.com/u/0/d/15474WUQDh3DJHf-VpcrHUcECHCvAE5Dj=w1919-h943-iv1",
+    image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-1.gif",
     tags: ["JavaScript", "HTML", "CSS", "Sass"],
     category: "bootstrap",
     github: "https://github.com/saimon2989/ecommerce-product-page-main",
@@ -245,7 +244,7 @@ export const projects = [
     description:
       "Designing and developing an Mercado Libre Clon with html, css, JavaScript, Express and EJS",
     image:
-      "https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-y6xPqfTf3RvsugdvOShvGEkHgQ8xjLX-jKOhTwoQOBTKgjmtNA26hzQmb3eXXW1jFY7-0DWrF2Zr2-GPQGaBdtd9am5Q=w1919-h943",
+      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-2.gif",
     tags: ["JavaScript", "HTML", "CSS", "EJS", "Express"],
     category: "sass",
     github: "https://github.com/saimon2989/orozco-simon-mercado-liebre",
@@ -258,7 +257,7 @@ export const projects = [
     description:
       "Designing and developing an Apple Watch Landing Page with html, css, JavaScript.",
     image:
-      "https://lh3.google.com/u/0/d/1AOw7ZB-uSrF4ih66vM1R-Mei1jC6e2bF=w1311-h943-iv1",
+      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-3.gif",
     tags: ["JavaScript", "HTML", "CSS",],
     category: "react js",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
