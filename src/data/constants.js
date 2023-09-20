@@ -232,7 +232,7 @@ export const projects = [
     date: "Agust 2023",
     description:
       "Designing and developing an ecommerce product page with figma sass, html, css and JavaScript.",
-    image: "https://previews.dropbox.com/p/thumb/ACByDx9oeNaHc7LHZtu_18SQJneTjA0A6SbtpvsczsdaNx4_akk7paRZlEgM7mSKwvnZGb45tYO5VgGyzW4M0P5ijV621W-Dt9OyDUPqU7JtDgRh1RIC-YE7x2piad9YrgzP-wwEwzdJHtHKI3DD5MPfUVtP1xuDspQR-eIK-gc5Oi1v4YMPdr9r4lW0BLDkhKB-LrogO7-pnVRPwpbHo0sNq-i1CX3himZxmmeg4x1XqqMmGzInEAHM7O8VANmhgPxzZUN6yVrcRdLgNp-fcmJM0Nvnv8ulQdSCFyyp3uWS5L2RAbw-vGBvl1ic6mC--o_zwSy11xLGrPwv_KGO5DHl/p.gif",
+    image: "https://lh3.google.com/u/0/d/15474WUQDh3DJHf-VpcrHUcECHCvAE5Dj=w1919-h943-iv1",
     tags: ["JavaScript", "HTML", "CSS", "Sass"],
     category: "bootstrap",
     github: "https://github.com/saimon2989/ecommerce-product-page-main",
@@ -245,7 +245,7 @@ export const projects = [
     description:
       "Designing and developing an Mercado Libre Clon with html, css, JavaScript, Express and EJS",
     image:
-      "https://previews.dropbox.com/p/thumb/ACDTgkJEwlQYKPH2JSkARfkLXqzvJcgDqn7no93j6wg-ku-6mUxCq_G2r5KX9zgpZ9zObyPh5Z2lhlVVwfaSIP7CUzDbs9GVHepK__pAwRvFf2ZzQX9-RaUDJC6AxMGp2Y3Fvnyqv-atk22Z49b5_yxt94-U5fve4wkcXFv5SsfBTh-C_Xs8FU0bWDvw5fbcSNDfPzEV_jYxrGwT10GivBLhLHkXXNhzPXKZAvouGWYuSR17JYAi6ZyNLKOWbB2UsC_Flcezy6UJfdegLWgu0C-3KMn7qu83KlbXu5jXjj9bMCIDlkWYYFin8e6feCwAqB4YcurcT-e2po5QWV75uiwy/p.gif",
+      "https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-y6xPqfTf3RvsugdvOShvGEkHgQ8xjLX-jKOhTwoQOBTKgjmtNA26hzQmb3eXXW1jFY7-0DWrF2Zr2-GPQGaBdtd9am5Q=w1919-h943",
     tags: ["JavaScript", "HTML", "CSS", "EJS", "Express"],
     category: "sass",
     github: "https://github.com/saimon2989/orozco-simon-mercado-liebre",
@@ -258,7 +258,7 @@ export const projects = [
     description:
       "Designing and developing an Apple Watch Landing Page with html, css, JavaScript.",
     image:
-      "https://previews.dropbox.com/p/thumb/ACD3ZYibLkyGnveWgOL8ks3Gpq6RwJegVyZp3mDXbytsHep292TK1-bHp6Q0m3Q6Zj44WDkhm835e_83_eWbEhOuFFeMzuP9MDecJWRdFiMmtNHx8M7ksdzx62E_7jmauJ9cGd_HIeIgQJySrlzf_UrhckhiqTHv6HN0M9RQSSFLqkg7Aab-yXKgirXGq28bBiJQmbJrPCOJ2HLidpajNPdzdSKsOqycV3azffXGEAAovavY5nj_IWDkYA1loeQk59jiokvvIjIaIso3PbcJD52Jy8Ekw6oZy1pOfsTwZiBZ79Vu5SuFUXVDpZz_1eEJ8X27SSx9XFstzCZ6URZLnFvQ/p.gif",
+      "https://lh3.google.com/u/0/d/1AOw7ZB-uSrF4ih66vM1R-Mei1jC6e2bF=w1311-h943-iv1",
     tags: ["JavaScript", "HTML", "CSS",],
     category: "react js",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
