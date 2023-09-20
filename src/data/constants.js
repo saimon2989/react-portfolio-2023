@@ -148,11 +148,11 @@ export const experiences = [
       "CSS",
       "JavaScript",
       "Figma",
+      "V-TEX",
+      "Shopify",
       "Adobe Xd",
       "Adobe Ai",
       "Adobe Ps",
-      "V-TEX",
-      "Shopify",
     ],
 /*     doc: "https://media.licdn.com/dms/image/C4E0BAQHUo2WTIS-zqQ/company-logo_200_200/0/1661214010152/agua_bendita_s_a_s_logo?e=1703116800&v=beta&t=AXplEJI3NH43RbpOWiXuFGjgN877gwfykfn2rpBX6lg", */
   },
