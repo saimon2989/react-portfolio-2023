@@ -27,6 +27,12 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="web app" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
           }
           <Divider />
+          {toggle === 'web app' ?
+            <ToggleButton active value="web app" onClick={() => setToggle('express')}>Express</ToggleButton>
+            :
+            <ToggleButton value="web app" onClick={() => setToggle('express')}>Express</ToggleButton>
+          }
+          <Divider />
           {toggle === 'android app' ?
             <ToggleButton active value="android app" onClick={() => setToggle('sass')}>Sass</ToggleButton>
             :
