@@ -235,7 +235,7 @@ export const projects = [
     date: "Agust 2023 - to present",
     description:
       "Integration project with several developers in the full stack web development course at Digital House. Developed with EJS, Express, html, css and JavaScript (still under development).",
-    image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-1.gif",
+    image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-4.gif",
     tags: ["JavaScript", "HTML", "CSS", "Express", "EJS", "Sequelize"],
     category: "express",
     github: "https://github.com/0623CIFSNCN05LAED/grupo-01",
