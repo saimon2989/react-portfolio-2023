@@ -1,12 +1,12 @@
 export const Bio = {
   name: "Simón Orozco Henao",
   roles: [
-    "Full Stack Developer",
-    "Programmer",
     "UI/UX Designer",
+    "Programmer",
+    "Full Stack Developer",
   ],
   description:
-    "Designer with a focus on product and digitalstrategy, a graduate of the Master in Coding pro-gram at DEV.F, currently enrolled in the FullStack Web Developer program at DigitalHouse.Oriented towards results-driven work, adapt-able, responsible, proactive, with strong inter-personal, creative, and teamwork skills. I have apassion for design and technology, and I believethat combining these two variables together isone of the best ways to conceive and developany kind of idea or project. Interested in workingin web design areas such as Web Developmentand UI/UX.",
+    "Designer with a focus on product and digital strategy, a graduate of the Master in Coding pro-gram at DEV.F, currently enrolled in the FullStack Web Developer program at DigitalHouse.Oriented towards results-driven work, adapt-able, responsible, proactive, with strong inter-personal, creative, and teamwork skills. I have apassion for design and technology, and I believe that combining these two variables together isone of the best ways to conceive and developany kind of idea or project. Interested in working in web design areas such as Web Development and UI/UX.",
   github: "https://github.com/saimon2989",
   resume:
     "https://drive.google.com/file/d/1N3WjGZACNTq2G7RtuPu4JX-D1Y_QYv10/view?usp=sharing",
@@ -66,6 +66,10 @@ export const skills = [
       {
         name: "EJS",
         image: "https://img.icons8.com/color/480/clr_ejs_1.png",
+      },
+      {
+        name: "Sequelize",
+        image: "https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg",
       },
       {
         name: "MySQL",
@@ -225,6 +229,18 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 5,
+    title: "Ecommerce Maunganui",
+    date: "Agust 2023 - to present",
+    description:
+      "Integration project with several developers in the full stack web development course at Digital House. Developed with EJS, Express, html, css and JavaScript (still under development).",
+    image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-1.gif",
+    tags: ["JavaScript", "HTML", "CSS", "Express", "EJS", "Sequelize"],
+    category: "express",
+    github: "https://github.com/0623CIFSNCN05LAED/grupo-01",
+    webapp: "https://www.figma.com/file/n5ZaiTApRsoFlj91eTuRwv/Proyecto-integrador?type=design&node-id=0-1&mode=design",
+  },
   {
     id: 6,
     title: "Ecommerce Product Page",
