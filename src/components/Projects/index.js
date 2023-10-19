@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+          I have worked on a wide range of projects. From Expresss to Sasss. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,28 +21,34 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
+          {toggle === 'Bootstrap' ?
+            <ToggleButton active value="Bootstrap" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
+            <ToggleButton value="Bootstrap" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('express')}>Express</ToggleButton>
+          {toggle === 'Express' ?
+            <ToggleButton active value="Express" onClick={() => setToggle('express')}>Express</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('express')}>Express</ToggleButton>
+            <ToggleButton value="Express" onClick={() => setToggle('express')}>Express</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('sass')}>Sass</ToggleButton>
+          {toggle === 'Sass' ?
+            <ToggleButton active value="Sass" onClick={() => setToggle('sass')}>Sass</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('sass')}>Sass</ToggleButton>
+            <ToggleButton value="Sass" onClick={() => setToggle('sass')}>Sass</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('react js')}>React Js</ToggleButton>
+          {toggle === 'React Js' ?
+            <ToggleButton active value="React Js" onClick={() => setToggle('react js')}>React Js</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('react js')}>React Js</ToggleButton>
+            <ToggleButton value="React Js" onClick={() => setToggle('react js')}>React Js</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'React Js' ?
+            <ToggleButton active value="apis" onClick={() => setToggle('apis')}>API's</ToggleButton>
+            :
+            <ToggleButton value="apis" onClick={() => setToggle('apis')}>API's</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>

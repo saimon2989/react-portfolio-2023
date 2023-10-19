@@ -185,7 +185,7 @@ export const experiences = [
     role: "Digital Strategy Consultant.",
     company: "VENA S.A.S",
     date: "(Abr. 2021 - Nov. 2021)",
-    desc: "Administration, management, and updating ofwebsites through WordPress and Shopify.Design and development of web pages forclients using Figma, WordPress, and Shopify.",
+    desc: "Administration, management, and updating ofwebsites through WordPress and Shopify. Design and development of web pages forclients using Figma, WordPress, and Shopify.",
     skills: [
       "HTML",
       "CSS",
@@ -246,10 +246,10 @@ export const projects = [
     title: "Ecommerce Product Page",
     date: "Agust 2023",
     description:
-      "Designing and developing an ecommerce product page with figma sass, html, css and JavaScript.",
+      "Developing an ecommerce product page with figma sass, html, css and JavaScript.",
     image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-1.gif",
     tags: ["JavaScript", "HTML", "CSS", "Sass"],
-    category: "bootstrap",
+    category: "sass",
     github: "https://github.com/saimon2989/ecommerce-product-page-main",
     webapp: "https://ecommerce-product-page-main.onrender.com",
   },
@@ -262,7 +262,7 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-2.gif",
     tags: ["JavaScript", "HTML", "CSS", "EJS", "Express"],
-    category: "sass",
+    category: "express",
     github: "https://github.com/saimon2989/orozco-simon-mercado-liebre",
     webapp: "https://orozco-simon-mercado-liebre.onrender.com",
   },
@@ -271,20 +271,44 @@ export const projects = [
     title: "Apple Watch Landing Page",
     date: "Jan 2021",
     description:
-      "Designing and developing an Apple Watch Landing Page with html, css, JavaScript.",
+      "Designing an Apple Watch Landing Page with html, css, JavaScript.",
     image:
       "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-3.gif",
     tags: ["JavaScript", "HTML", "CSS",],
-    category: "react js",
+    category: "",
     github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
     webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+  },
+  {
+    id: 9,
+    title: "QR Code Card",
+    date: "Oct 2023",
+    description:
+      "Developing an QR code component in HTML and CSS.",
+    image:
+      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-5.gif",
+    tags: ["HTML", "CSS",],
+    category: "",
+    github: "https://github.com/saimon2989/qr-code-component-main",
+    webapp: "https://soh-qr-code-component.netlify.app",
+  },
+  {
+    id: 10,
+    title: "Advice generator app",
+    date: "Oct 2023",
+    description:
+      "Advice generator app, this project uses the an call from an API to generate random quotes of advice.",
+    image:
+      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-6.gif",
+    tags: ["HTML", "CSS", "JavaScript"],
+    category: "",
+    github: "https://github.com/saimon2989/qr-code-component-main",
+    webapp: "https://soh-advice-generator-app.netlify.app",
   },
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: "Started my journey as Designer" },
-  { year: 2021, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2014, text: "Started my journey as Designer" },
+  { year: 2021, text: "Worked as a Digital Strategy Consultant." },
+  { year: 2022, text: "Worked as a UI/UX Web Designer" },
 ];

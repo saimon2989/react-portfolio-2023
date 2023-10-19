@@ -82,7 +82,7 @@ export const GitHubButton = styled.a`
   border-radius: 20px;
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
-  padding: 0 20px;
+  padding: 0 15px;
   font-weight: 500;
   text-decoration: none;
   font-size: 16px;
