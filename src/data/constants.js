@@ -267,19 +267,6 @@ export const projects = [
     webapp: "https://orozco-simon-mercado-liebre.onrender.com",
   },
   {
-    id: 8,
-    title: "Apple Watch Landing Page",
-    date: "Jan 2021",
-    description:
-      "Designing an Apple Watch Landing Page with html, css, JavaScript.",
-    image:
-      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-3.gif",
-    tags: ["JavaScript", "HTML", "CSS",],
-    category: "",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-  },
-  {
     id: 9,
     title: "QR Code Card",
     date: "Oct 2023",
@@ -301,10 +288,23 @@ export const projects = [
     image:
       "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-6.gif",
     tags: ["HTML", "CSS", "JavaScript"],
-    category: "",
-    github: "https://github.com/saimon2989/qr-code-component-main",
+    category: "apis",
+    github: "git push --set-upstream origin upload-projects",
     webapp: "https://soh-advice-generator-app.netlify.app",
   },
+  {
+    id: 8,
+    title: "Apple Watch Landing Page",
+    date: "Jan 2021",
+    description:
+      "Designing an Apple Watch Landing Page with html, css, JavaScript.",
+    image:
+      "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-3.gif",
+    tags: ["JavaScript", "HTML", "CSS",],
+    category: "",
+    github: "git push --set-upstream origin upload-projects",
+    webapp: "",
+  }
 ];
 
 export const TimeLineData = [
