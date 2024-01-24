@@ -3,13 +3,13 @@ export const Bio = {
   roles: [
     "UI/UX Designer",
     "Programmer",
-    "Full Stack Developer",
+    "Front-End Developer",
   ],
   description:
-    "Designer with a focus on product and digital strategy, a graduate of the Master in Coding pro-gram at DEV.F, currently enrolled in the FullStack Web Developer program at DigitalHouse.Oriented towards results-driven work, adapt-able, responsible, proactive, with strong inter-personal, creative, and teamwork skills. I have apassion for design and technology, and I believe that combining these two variables together isone of the best ways to conceive and developany kind of idea or project. Interested in working in web design areas such as Web Development and UI/UX.",
+    "Designer specializing in product and digital strategy, holding a degree from the Master in Coding program at DEV.F and a graduate of the FullStack Web Developer program at DigitalHouse. Focused on results-driven work, I am adaptable, responsible, proactive, with robust interpersonal, creative, and teamwork skills. Passionate about design and technology, I firmly believe that the synergy of these elements is key to conceiving and developing innovative ideas and projects. Eager to contribute to web design fields, particularly in Web Development and UI/UX.",
   github: "https://github.com/saimon2989",
   resume:
-    "https://drive.google.com/file/d/1N3WjGZACNTq2G7RtuPu4JX-D1Y_QYv10/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZfuJQpXWOiqGJukP9b3Xg4Jo9vdREqrL/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/simón-orozco-henao-1aaab3188/",
   twitter: "",
   insta: "",
@@ -84,6 +84,11 @@ export const skills = [
         name: "GIT",
         image:
           "https://img.icons8.com/color/480/git.png",
+      },
+      {
+        name: "Docker",
+        image:
+          "https://img.icons8.com/color/48/docker.png",
       }
     ],
   },
@@ -142,7 +147,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHUo2WTIS-zqQ/company-logo_200_200/0/1661214010152/agua_bendita_s_a_s_logo?e=1703116800&v=beta&t=AXplEJI3NH43RbpOWiXuFGjgN877gwfykfn2rpBX6lg",
+    img: "https://media.licdn.com/dms/image/C4E0BAQHUo2WTIS-zqQ/company-logo_100_100/0/1661214010152/agua_bendita_s_a_s_logo?e=1714003200&v=beta&t=uy0nl3lY3YKMaoqpA8bpQqRXAo5pCIMwfZPDMJGl82w",
     role: "UI/UX Web Designer",
     company: "Agua Bendita S.A.S",
     date: "(Dec. 2022 - Present))",
@@ -158,11 +163,10 @@ export const experiences = [
       "Adobe Ai",
       "Adobe Ps",
     ],
-/*     doc: "https://media.licdn.com/dms/image/C4E0BAQHUo2WTIS-zqQ/company-logo_200_200/0/1661214010152/agua_bendita_s_a_s_logo?e=1703116800&v=beta&t=AXplEJI3NH43RbpOWiXuFGjgN877gwfykfn2rpBX6lg", */
   },
   {
-    id: 0,
-    img: "https://media.licdn.com/dms/image/C560BAQFTsaRpyGO5ag/company-logo_200_200/0/1655495569453/lcespirito_logo?e=1703116800&v=beta&t=5JH0r-1vKutWDuo4Wf6Vbc9dF3prKuMPjZq-HiVySj8",
+    id: 1,
+    img: "https://media.licdn.com/dms/image/C560BAQFTsaRpyGO5ag/company-logo_100_100/0/1655495569453/lcespirito_logo?e=1714003200&v=beta&t=Sk9S5AjizCL1wRWGSY4UR7ss_P05aNsT00REdkabGYI",
     role: "Web Graphic Designer",
     company: "Inversiones LCE S.A.S",
     date: "(Nov. 2021 - Dec. 2022)",
@@ -180,8 +184,8 @@ export const experiences = [
     ],
   },
   {
-    id: 1,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEKd6In9Tc3JA/company-logo_200_200/0/1631746279703/servicios_profesionales_velasquez_naranjo_y_cia_s_a_s__logo?e=1703116800&v=beta&t=q5vfebXe-cPhQgELlOHoPCHR8-aCzT2ZvdcrYVKMzrQ",
+    id: 2,
+    img: "https://media.licdn.com/dms/image/C4E0BAQEKd6In9Tc3JA/company-logo_100_100/0/1631746279703/servicios_profesionales_velasquez_naranjo_y_cia_s_a_s__logo?e=1714003200&v=beta&t=PeORuL67PVZrNHFdX-fFiHNTu3FPDUJjT7xUiWCL7MU",
     role: "Digital Strategy Consultant.",
     company: "VENA S.A.S",
     date: "(Abr. 2021 - Nov. 2021)",
@@ -202,23 +206,31 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://knownonline.com/wp-content/uploads/2017/12/dh.png",
-    school: "Digital House ARG",
-    date: "(Jun. 2023 - Present).",
-    grade: "Progress",
-    desc: "I'm coursing a bootcamp in Full Stack Web Development in Digital House Institute  ARG.",
+    img: "https://media.licdn.com/dms/image/D4E0BAQFHnrpzCwGn7g/company-logo_200_200/0/1703022627254/team_international_logo?e=1714003200&v=beta&t=-PsLp2h7wD23QBC4gow946sSx9AlHyruY2aM_Mz7kaA",
+    school: "Team International",
+    date: "(Sep. 2023 - Dec. 2023).",
+    grade: "Graduate.",
+    desc: "I completed a 46-hour TOP GUN LAB: JavaScript online course at Team International, gaining expertise in React.js, Node.js, Express, PostgreSQL, and Docker. This intensive program, hosted by the leading global technology outsourcing firm, provided practical skills for real-world applications.",
   },
   {
     id: 1,
+    img: "https://knownonline.com/wp-content/uploads/2017/12/dh.png",
+    school: "Digital House ARG",
+    date: "(Jun. 2023 - Jan. 2024).",
+    grade: "Graduate.",
+    desc: "I successfully completed an intensive Full Stack Web Development bootcamp at Digital House Institute in Argentina. This immersive program, facilitated by Digital House, a prominent technology and innovation school in the country, provided me with skills in both front-end and back-end web development.",
+  },
+  {
+    id: 2,
     img: "https://fs.hubspotusercontent00.net/hub/7483854/hubfs/devf-favicon-01.png?width=108&height=108",
     school: "DEV.F Institute MEX",
     date: "(Oct. 2020 - Oct. 2021).",
     grade: "Graduate.",
-    desc: "I completed 480 hours in web development, Master in Coding Progran in DEV.F Institute .MEX",
+    desc: "I successfully completed a 480-hour Master in Coding Program in Web Development at DEV.F Institute in Mexico.  The program equipped me with valuable skills and knowledge to excel in the dynamic field of coding, enhancing my proficiency in various programming languages and tools.",
     degree: "Full Stack Web Developer",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://www.upb.edu.co/wcs_statics/pp/img/Logo-UPB-2022.svg",
     school: "Pontifical Bolivarian University. COL",
     date: "(July. 2014 - July. 2020)",
@@ -232,12 +244,12 @@ export const projects = [
   {
     id: 5,
     title: "Ecommerce Maunganui",
-    date: "Agust 2023 - to present",
+    date: "Agust 2023 - January 2024",
     description:
-      "Integration project with several developers in the full stack web development course at Digital House. Developed with EJS, Express, html, css and JavaScript (still under development).",
+      "Integration project with several developers in the full stack web development course at Digital House. Developed with EJS, Express, HTML, CSS, and JavaScript, this project specifically focuses on creating an engaging and efficient e-commerce platform for the fashion industry.",
     image: "https://raw.githubusercontent.com/saimon2989/react-portfolio-2023/main/public/project-4.gif",
-    tags: ["JavaScript", "HTML", "CSS", "Express", "EJS", "Sequelize"],
-    category: "express",
+    tags: ["JavaScript", "HTML", "CSS", "Express", "EJS", "Sequelize", "React"],
+    category: "react js",
     github: "https://github.com/0623CIFSNCN05LAED/grupo-01",
     webapp: "https://www.figma.com/file/n5ZaiTApRsoFlj91eTuRwv/Proyecto-integrador?type=design&node-id=0-1&mode=design",
   },

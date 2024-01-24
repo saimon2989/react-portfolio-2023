@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From Expresss to Sasss. Here are some of my projects.
+          I have worked on a wide range of projects. From React Js to Express. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,12 +21,12 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'Bootstrap' ?
+{/*           {toggle === 'Bootstrap' ?
             <ToggleButton active value="Bootstrap" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
             :
             <ToggleButton value="Bootstrap" onClick={() => setToggle('bootstrap')}>Bootstrap</ToggleButton>
           }
-          <Divider />
+          <Divider /> */}
           {toggle === 'Express' ?
             <ToggleButton active value="Express" onClick={() => setToggle('express')}>Express</ToggleButton>
             :
